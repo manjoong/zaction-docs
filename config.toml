@@ -1,0 +1,13 @@
+# baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cloud Z"
+theme = "hugo-theme-learn"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = "false"
+hasCJKLanguage = "true"
+paginate = "5"
+
+defaultContentLanguage = "ko"
