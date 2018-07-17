@@ -4,7 +4,7 @@
 
 ### 1. .md 파일 작성
 
-(MarDown: https://gist.github.com/ihoneymon/652be052a0727ad59601)
+(MarkDown: https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 (FrontMetter: https://myshare.skcc.com/display/CZU/97.+Frontmetter)
 
