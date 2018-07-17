@@ -44,5 +44,6 @@ content -> 글 목록(카테고리 폴더)를 저장하는 폴더
 <br>
 
 ### 6. 배포 확인 (약 3~5분 소요)
+https://skcloud.github.io/zaction
 
 
