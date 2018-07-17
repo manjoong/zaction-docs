@@ -1,4 +1,4 @@
-# baseURL = "http://example.org/"
+baseURL = "/zaction"
 languageCode = "en-us"
 title = "Cloud Z"
 theme = "hugo-theme-learn"
