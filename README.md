@@ -12,7 +12,7 @@
 
 ### 2. content 폴더 선택
 
-content -> md 파일 저장
+content -> 글 목록(카테고리 폴더)를 저장하는 폴더
 
 ![cotent](static/img/readme/git1.PNG)
 
