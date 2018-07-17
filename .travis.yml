@@ -19,7 +19,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # This is the authentication which you will setup$
   keep-history: true
-  email: zaction@sk.com
   fqdn: skcloud.github.io/zaction
   name: "skcloud"
   on:
