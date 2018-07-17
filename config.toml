@@ -1,4 +1,5 @@
 # baseURL = "http://example.org/"
+
 languageCode = "en-us"
 title = "Cloud Z"
 theme = "hugo-theme-learn"
