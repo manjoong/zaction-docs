@@ -40,3 +40,9 @@ content -> 글 목록(카테고리 폴더)를 저장하는 폴더
 녹색 commit 버튼을 눌러 커밋
 
 ![커밋](static/img/readme/git4.PNG)
+
+<br>
+
+### 6. 배포 확인 (약 3~5분 소요)
+
+
