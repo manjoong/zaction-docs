@@ -1,4 +1,4 @@
-baseURL = "https://skcloud.github.io/zaction/"
+baseURL = "https://skcloud.github.io"
 
 languageCode = "en-us"
 title = "Cloud Z"

@@ -13,14 +13,14 @@ script:
 deploy:
   #edge:
   local_dir: public # Default static site output dir for Hugo
-  repo: skcloud/skcloud.github.io-zaction # This is the slug of the repo you want to deploy your $
+  repo: skcloud/skcloud.github.io # This is the slug of the repo you want to deploy your $
   target_branch: master # GitHub pages branch to deploy to (in other cases it$
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # This is the authentication which you will setup$
   keep-history: true
   email: zaction@sk.com
-  fqdn: skcloud.github.io/zaction
+  fqdn: skcloud.github.io
   name: "skcloud"
   on:
     branch: master
