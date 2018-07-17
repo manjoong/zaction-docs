@@ -1,4 +1,4 @@
-# baseURL = "http://example.org/"
+baseURL = "https://skcloud.gihhub.io"
 
 languageCode = "en-us"
 title = "Cloud Z"
@@ -10,5 +10,7 @@ publishdir = "public"
 builddrafts = "false"
 hasCJKLanguage = "true"
 paginate = "5"
+[permalinks]
+  post = "/:year/:month/:title/"
 
 defaultContentLanguage = "ko"
