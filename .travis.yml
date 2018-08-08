@@ -9,7 +9,8 @@ install:
 script:
   - hugo # This commands builds your website on travis
 
-
+notifications:
+  email: false
 deploy:
   #edge:
   local_dir: public # Default static site output dir for Hugo
