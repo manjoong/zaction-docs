@@ -1,10 +1,12 @@
----
-menutitle: "Cloud Z Composer docs"
-date: 2018-08-09T09:00:00Z
-draft: false
-weight: 2
++++
+menutitle = "Cloud Z Composer docs"
+date = 2018-07-05T04:20:00Z
+draft = false
+weight = 1
+chapter = false
+hidden = false
 alwaysopen = true
----
++++
 
 # Cloud Z Composer   
 Cloud Z Composer는 IT 자동화의 확장, 복잡한 배치 관리 및 생산성 향상을 지원합니다. 앱 배포에서 다중 계층 조정에 이르기까지 제어, 보안 및 위임 기능을 추가하여 엔터프라이즈 자동화를 지원합니다. 시각적 대시 보드, 역할 기반 액세스 제어, 작업 스케줄링, 통합 알림 및 그래픽 인벤토리 관리로 IT 인프라를 중앙 집중화하고 제어하십시오.
