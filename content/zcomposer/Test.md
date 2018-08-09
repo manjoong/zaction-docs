@@ -1,6 +1,6 @@
 +++
-menutitle: "Cloud Z Composer docs"
-date: 2018-08-09T15:30:00Z
+menutitle = "Cloud Z Composer docs"
+date = 2018-08-09T15:30:00Z
 draft = false
 weight = 1
 chapter = false
@@ -38,7 +38,7 @@ Cloud Z Composer 내에서 Playbook은 실시간 스트림 형태로 실행됩�
 - 클라우드 Inventory 갱신
 - 다른 유형의 작업을 공통 작업 목록에 표시
 
-![cloudZ](https://seo01.objectstorage.softlayer.net/v1/AUTH_a24ffe9e-6cac-4383-a870-99a6582e7964/zcomposer-docs/2task_state.png)
+![cloudZ](https://seo01.objectstorage.softlayer.net/v1/AUTH_a24ffe9e-6cac-4383-a870-99a6582e7964/zcomposer-docs/2job_result.png)
 
 ## Multi Playbook 워크플로우
 
