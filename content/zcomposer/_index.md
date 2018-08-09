@@ -2,9 +2,7 @@
 menutitle: "Cloud Z Composer docs"
 date: 2018-08-09T09:00:00Z
 draft: false
-chapter: false
-hidden: false
-weight: 1
+weight: 2
 ---
 
 # Cloud Z Composer   
