@@ -20,7 +20,7 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # This is the authentication which you will setup$
   keep-history: true
-  fqdn: skcloud.github.io
+  # fqdn: skcloud.github.io
   name: "skcloud"
   on:
     branch: master
