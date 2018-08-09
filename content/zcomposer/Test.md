@@ -1,10 +1,10 @@
 +++
 menutitle = "Cloud Z Composer docs"
 date = 2018-07-05T04:20:00Z
-draft= false
+draft = false
 weight = 1
-chapter= false
-hidden= false
+chapter = false
+hidden = false
 alwaysopen = true
 +++
 
