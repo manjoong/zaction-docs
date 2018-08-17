@@ -16,7 +16,7 @@ Cloud Z Composer는 IT 자동화의 확장, 복잡한 배치 관리 및 생산�
 ## Dash Board
 
 ### Dash Board란?
-Cloud Z Composer Dash Board는 각종 배포 자동화 환경에서 진행되는 모든 작업에 대한 디스플레이를 제공합니다.
+Cloud Z Composer Dash Board는 각종 배포 자동화 환경에서 진행되는 모든 작업에 대한 디스플레이를 제공합니
 
 
 ### 출력 대상
